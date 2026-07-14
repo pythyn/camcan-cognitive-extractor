@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it using the following metadata."
+title: "CamCog: CamCAN Cognitive Score Extractor"
+version: 1.0.0
+date-released: 2026-07-14
+authors:
+  - family-names: "Mahmoudi"
+    given-names: "AmirHossein"
+    orcid: "https://orcid.org/0009-0007-5713-6936"
+repository-code: "https://github.com/pythyn/camcan-cognitive-extractor"
+license: "MIT"
